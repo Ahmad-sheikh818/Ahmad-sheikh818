@@ -18,11 +18,6 @@ End-to-end analysis of 9,994 retail order lines ($2.30M sales, $286K profit).
 - **BI & Reporting:** Power BI (DAX, data modeling, Power Query), Excel (PivotTables, XLOOKUP, Power Query)
 - **Analysis:** Data cleaning & validation, EDA, KPI analysis, segmentation, MoM/QoQ/YoY reporting
 
-## Certifications
-- Deloitte Australia — Data Analytics Job Simulation (Forage)
-- Tata Group — Data Visualisation: Empowering Business with Effective Insights (Forage)
-- BCG — Strategic Thinking Job Simulation (Forage)
-
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/sheikh-ahmad-fal6akk/
 - Email: ahmadfed966@gmail.com
